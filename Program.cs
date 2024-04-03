@@ -14,9 +14,6 @@ namespace MyApp
             Employee1 p = new Employee1();
             p.Address = "NewYork"; //protected internal
             p.Name = "Test"; //protected
-
-
-
             Console.WriteLine("Hello World!");
         }
     }
